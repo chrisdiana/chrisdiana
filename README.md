@@ -1,12 +1,13 @@
 ### Hi there 👋
 
 
+I'm Chris and I enjoy experimenting with the latest web technologies and sharing what I learn. [Subscribe here](http://eepurl.com/gntUvf) to get updates on new & exciting open source projects.
+
+🔭 I’m currently working on ...
+- [SimpleStore](https://github.com/chrisdiana/simplestore)
+
 
 <!--
-**chrisdiana/chrisdiana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -16,5 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-Find me:
+📫 Find me:
 -->
