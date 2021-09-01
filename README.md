@@ -3,13 +3,11 @@
 
 I'm Chris and I enjoy experimenting with the latest web technologies and sharing what I learn. 
 
-📫 [Subscribe here](http://eepurl.com/gntUvf) to get updates on any new & exciting open source projects!
+📫 [Subscribe](http://eepurl.com/gntUvf) to get updates on any new & exciting open source projects or releases!
 
 🔭 I’m currently working on ...
 - [WebDen](https://github.com/chrisdiana/webden)
 - [SimpleStore](https://github.com/chrisdiana/simplestore)
-- [dvpipe](https://github.com/chrisdiana/dvpipe)
-
 
 <!--
 - 🔭 I’m currently working on ...
