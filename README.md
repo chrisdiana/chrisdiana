@@ -1,15 +1,11 @@
 ### Hi there 👋
 
-
-I'm Chris and I enjoy experimenting with the latest web technologies and sharing what I learn. 
-
-📫 [Subscribe](http://eepurl.com/gntUvf) to get updates on any new & exciting open source projects or releases!
-
 🔭 I’m currently working on ...
 - [WebDen](https://github.com/chrisdiana/webden)
 - [SimpleStore](https://github.com/chrisdiana/simplestore)
 
-<!--
+<!--I'm Chris and I enjoy experimenting with the latest web technologies and sharing what I learn. 
+📫 [Subscribe](http://eepurl.com/gntUvf) to get updates on any new & exciting open source projects or releases!
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
