@@ -16,4 +16,12 @@
 - ⚡ Fun fact: ...
 Find me:
 Connect with me:
+
+* [StackOverflow](https://stackoverflow.com/users/1073821/chris-diana)
+* [Angellist](https://angel.co/u/chrisdiana)
+* [about.me]()
+* [Dribbble](https://dribbble.com/chrisdiana)
+* [LinkedIn](https://www.linkedin.com/in/chris-diana)
+* [dev.to](https://dev.to/chrisdiana)
+* [Medium](https://medium.com/@chrisdiana)
 -->
