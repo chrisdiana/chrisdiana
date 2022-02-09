@@ -24,4 +24,6 @@ Connect with me:
 * [LinkedIn](https://www.linkedin.com/in/chris-diana)
 * [dev.to](https://dev.to/chrisdiana)
 * [Medium](https://medium.com/@chrisdiana)
+* [npm](https://npmjs.com/~chrisdiana)
+* [Quora](https://www.quora.com/profile/Chris-Diana)
 -->
