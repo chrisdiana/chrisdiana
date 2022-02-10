@@ -4,6 +4,8 @@
 - [WebDen](https://github.com/chrisdiana/webden)
 - [SimpleStore](https://github.com/chrisdiana/simplestore)
 
+📫 [Subscribe](http://eepurl.com/gntUvf) for updates on new projects and releases.
+
 <!--I'm Chris and I enjoy experimenting with the latest web technologies and sharing what I learn. 
 📫 [Subscribe](http://eepurl.com/gntUvf) to get updates on any new & exciting open source projects or releases!
 - 🔭 I’m currently working on ...
